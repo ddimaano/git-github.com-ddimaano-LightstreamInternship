@@ -4,9 +4,16 @@ Jackson is sitting next to me
 
 <<<<<<< HEAD
 Luv is on discord
+<<<<<<< HEAD
 
 
 Suck my cock i will murder your family! Also, Nia is best girl.
 =======
 Luv is on discord with us
 >>>>>>> refs/remotes/origin/Merge-Test
+=======
+Suck my cock i will murder your family! Also, Nia is best girl.
+=======
+Luv is on discord with us
+>>>>>>> refs/remotes/origin/First-edit
+>>>>>>> origin/master
